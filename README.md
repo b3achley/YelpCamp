@@ -1,1 +1,4 @@
 # YelpCamp
+---
+permalink: /index.html
+---
