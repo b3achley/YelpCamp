@@ -1,4 +1,4 @@
 # YelpCamp
 ---
-permalink: /index.html
+permalink: /app.js
 ---
