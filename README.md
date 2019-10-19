@@ -1,4 +1,3 @@
 # YelpCamp
----
-permalink: /app.js
----
+
+<https://arcane-oasis-06642.herokuapp.com>
